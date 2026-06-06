@@ -8,8 +8,7 @@ class Ability
             int cooldown = 3;
             int mana = 50;
             bool is_unlocked = true;
-            bool is_cooldown_active = false;
-            
+            bool is_cooldown_active = false;            
 };
 
 int main()
