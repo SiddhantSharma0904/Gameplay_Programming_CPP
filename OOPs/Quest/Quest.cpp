@@ -36,5 +36,5 @@
        {
               isrewarded = false;
        }
-          
+          return 0;
     }
