@@ -2,8 +2,7 @@
 using namespace std;
 
 class Player
-{
-public:
+{ public:
     int Health = 80;
     int Max_Health = 100;
     bool is_Alive = true;
@@ -47,7 +46,7 @@ int Player::Heal()
 
     return Health;
 }
-
+ 
 int main()
 {
     Player player;
